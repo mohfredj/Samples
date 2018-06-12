@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION3.10)
+cmake_minimum_required(VERSION 3.10)
 
 set (TARGET_NAME mfgfoundation)
 
