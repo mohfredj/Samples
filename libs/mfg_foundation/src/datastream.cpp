@@ -1,5 +1,5 @@
-#include "axfoundation/datastream.h"
-#include "axfoundation/exception.h"
+#include "mfgfoundation/datastream.h"
+#include "mfgfoundation/exception.h"
 
 #include <string.h>
 #include <utility>

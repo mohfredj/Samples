@@ -4,7 +4,7 @@
 #include <sys/types.h>
 #include <string>
 
-#include "axfoundation/axfoundation_global.h"
+#include "mfgfoundation/mfgfoundation_global.h"
 
 namespace MFG {
 namespace foundation {
